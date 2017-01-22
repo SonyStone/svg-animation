@@ -1,0 +1,29 @@
+{
+  "name": "svg-animation",
+  "version": "0.0.1",
+  "description": "study animation vector graphics in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonyStone/svg-animation.git"
+  },
+  "keywords": [
+    "svg",
+    "animation"
+  ],
+  "author": "Ilya Verpovsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonyStone/svg-animation/issues"
+  },
+  "homepage": "https://github.com/SonyStone/svg-animation#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.0.0-beta.17",
+    "typescript": "^2.1.4",
+    "webpack": "^1.14.0"
+  }
+}
